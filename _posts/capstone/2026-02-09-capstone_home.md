@@ -369,7 +369,7 @@ Below are the capstone infographic pages created by student groups. Click an ima
 
 
    <!-- OCS Intelligence -->
-   <div class="flex items-start space-x-4 p-4 border rounded-lg capstone-item CSA" data-year="2026-2027">
+   <div class="flex items-start space-x-4 p-4 border rounded-lg capstone-item CSH" data-year="2026-2027">
        <a href="{% post_url capstone/2026-08-31-ocs-intelligence-capstone %}">
            <img src="/images/capstone/ocs-intelligence.png" alt="OCS Intelligence - Shared AI Infrastructure for Students" class="w-28 h-28 object-cover rounded" />
        </a>
