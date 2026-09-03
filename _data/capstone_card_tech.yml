@@ -156,8 +156,8 @@
   - "Jekyll Includes / Vanilla JS"
   - "localStorage"
 
-"OCS Intelligence":
-  - "Qwen3.8 27B"
+"OCS Intelligence LLM":
+  - "LLM"
   - "FlashAttention"
   - "vLLM"
   - "Distributed Inference"
