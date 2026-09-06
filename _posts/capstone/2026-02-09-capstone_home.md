@@ -381,14 +381,14 @@ Below are the capstone infographic pages created by student groups. Click an ima
    </div>
 
 
-     <!-- OCS Intelligence -->
+     <!-- OCS Intelligence LLM -->
      <div class="flex items-start space-x-4 p-4 border rounded-lg capstone-item CSH" data-year="2026-2027">
        <a href="{% post_url capstone/2026-08-31-ocs-intelligence-capstone %}">
-         <img src="/images/capstone/ocs-intelligence.png" alt="OCS Intelligence - Shared AI Infrastructure for Students" class="w-28 h-28 object-cover rounded" />
+         <img src="/images/capstone/ocs-intelligence.png" alt="OCS Intelligence LLM - Shared AI Infrastructure for Students" class="w-28 h-28 object-cover rounded" />
        </a>
        <div>
-         <h3 class="text-lg font-semibold"><a href="{% post_url capstone/2026-08-31-ocs-intelligence-capstone %}">OCS Intelligence: Agentic Inference Infrastructure</a></h3>
-         <p class="text-sm text-gray-700">A shared open-weight LLM inference service that gives OCS students access to capable engineering and development tools without requiring paid subscriptions.</p>
+         <h3 class="text-lg font-semibold"><a href="{% post_url capstone/2026-08-31-ocs-intelligence-capstone %}">OCS Intelligence LLM</a></h3>
+         <p class="text-sm text-gray-700">A generously donated 8× GTX 1070 rack becomes a shared open-weight LLM for OCS: live access from student harnesses, every student in mind, electricity as the only ongoing cost.</p>
          <p class="text-xs text-gray-500 mt-2">Team: Nikhil Maturi, Adi Katre, Mihir Bapat, Yash Parikh, Anvay Vahia, Yash Patil</p>
        </div>
      </div>
